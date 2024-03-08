@@ -2,6 +2,17 @@
 ![](images/Child_Birth_image.jpg)
 
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Recommendations for Improving the Health and Wellbeing of Mother and Child during Child Birth:](#recommendations-for-improving-the-health-and-wellbeing-of-mother-and-child-during-child-birth)
+
+
+
 ## Project Overview
 
 ### Introduction:
@@ -124,5 +135,68 @@ From my analysis, i made the following Key findings below:
 
 
 - <img src="images/Births_Trend_By_Year.jpg" width="550">
-- **Births Trend By Yyear (2016-2021):**
-- In analyzing the births by gender ratio, i came up with the below findings:
+- **Births Trend By Year (2016-2021):**
+- In this analysis, i evaluated the births trend between 2016 - 2021, below are insights i derived from the data:
+- __Gradual Decline in Total Births Over Time:__ The data reveals a gradual decline in the total number of births in the United States from 2016 to 2021. In 2016, there were 2,142,254 births, which decreased to 1,965,325 births in 2021.
+- __Steady Decline from 2016 to 2020:__ From 2016 to 2020, there is a consistent downward trend in the number of births each year. This steady decline suggests potential demographic or socio-economic factors influencing birth rates during this period. The COVID-19 pandemic likely contributed to the downward trend in childbirth rates observed in 2020. The pandemic may have raised the fears of economic uncertainty, health concerns, disruption of healthcare services, and social distancing measures which impacted on the number of births in 2020.
+- __Slight Increase in Births from 2020 to 2021:__ After reaching a low of 1,943,917 births in 2020, there is a slight increase in the number of births to 1,965,325 in 2021. While this increase may indicate a temporary deviation from the downward trend. Several factors may have contributed to the slight increase in childbirth rates observed in 2021 like the easing of pandemic restrictions, pent-up demand for procreation after the easing of the pandemic restrictions, improved access to healthcare services, social support networks, and other factors may have influenced this slight births increase.
+
+
+
+- <img src="images/Total_Number_Of_Births_By_Educational_Level_of_Mother.jpg" width="550">
+- **Number of Births By Educational Level of Mother:**
+- This is an analysis of the number of births by educational level of mother, below are insights i derived from the data:
+- __High Birth Rates Among Mothers with High School Education or Equivalent:__ Mothers who completed high school or obtained a General Educational Development (GED) certificate accounted for the highest number of births, with a total of 5,775,918 births. This suggests that a significant proportion of births are to mothers with a high school education level, highlighting the importance of this demographic group in childbirth statistics.
+- __Substantial Births Among Mothers with Bachelor's Degrees and Some College Credit:__ Mothers with a Bachelor's degree (BA, AB, BS) contributed significantly to the total number of births, with 4,653,184 births. Additionally, mothers with some college credit but no degree accounted for 4,425,269 births. These findings indicate that women with higher levels of educational attainment, including those with bachelor's degrees and some college credit, also contribute substantially to childbirth statistics.
+- __Moderate Birth Rates Among Mothers with Master's Degrees and Associate Degrees:__ Mothers with Master's degrees (MA, MS, MEng, MEd, MSW, MBA) had a moderate number of births, totaling 2,161,046 births. Similarly, mothers with Associate degrees (AA, AS) accounted for 1,867,700 births. While these educational groups have fewer births compared to those with high school or bachelor's degrees, they still make a significant contribution to the total number of births.
+- __Lower Birth Rates Among Mothers with Lower Educational Attainment:__ Mothers with lower educational attainment, such as those with 9th through 12th grade education with no diploma or 8th grade or less education, had comparatively lower numbers of births. Mothers in these educational categories accounted for 2,086,382 and 708,850 births, respectively. These findings suggest that educational attainment may be inversely correlated with birth rates, with higher levels of education generally associated with lower birth rates.
+- __Impact of Educational Attainment on Family Planning and Childbirth:__ The distribution of births across different educational levels highlights the complex relationship between education and family planning decisions. Factors such as socioeconomic status, access to resources, cultural norms, and personal aspirations may influence the timing and number of children individuals choose to have at different educational levels.
+
+
+- <img src="images/Avg_Age_Trend_of_Birthing_Mothers.jpg" width="550">
+- **Average Age Trend of Birthing Mothers (2016-2021):**
+- This analysis focuses on the average age of birthing mothers over the specified period, revealing trends and shifts in maternal age.of the number of births of mother, below are insights derived from the data:
+- __Gradual Increase in Average Maternal Age Over Time:__ The data shows a consistent upward trend in the average age of birthing mothers from 2016 to 2021. In 2016, the average maternal age was 29.3 years, which increased steadily to 29.77 years in 2021.
+- __Significance of Incremental Changes:__ While the changes in average maternal age may seem small, they reflect meaningful shifts in family planning and demographic trends over time.
+Even slight increases in average maternal age can have important implications for maternal and child health outcomes, as well as for social and economic factors.
+- __Factors Driving Increase in Maternal Age:__ Several factors may contribute to the trend of increasing maternal age, including delayed childbearing for career or educational pursuits, financial stability, and personal choice. Cultural shifts, changes in societal norms, and improvements in access to contraception and fertility treatments may also play a role in the decision to postpone childbirth.
+- __Health and Fertility Considerations:__ Advanced maternal age (typically defined as age 35 and older) may present certain health risks for both mothers and babies, including an increased likelihood of pregnancy complications and chromosomal abnormalities. Monitoring trends in average maternal age is important for healthcare providers and policymakers to anticipate and address the unique needs and challenges associated with pregnancies at older ages.
+
+
+- <img src="images/Avg_Births_Weight_Trend_of_New_Born_Babies.jpg" width="500">
+- **Average Births Weight Trend of New Born Babies (2016-2021):**
+- In this analysis, the focus is on the average births weights trend of new born babies over the specified period, , below are insights derived from the data:
+- __Gradual Decline in Average Birth Weight Over Time:__ The data shows a consistent downward trend in the average birth weight of newborn babies from 2016 to 2021. In 2016, the average birth weight was 3,261.68 grams, which decreased to 3,239.15 grams in 2021.
+- __Significance of the Decline:__ While the changes in average birth weight may seem small, even slight decreases can have implications for infant health and development. Monitoring trends in average birth weight is essential for identifying potential shifts in maternal and infant health outcomes and informing public health interventions.
+- __Possible Factors Contributing to Decrease in Birth Weight:__ Several factors may contribute to the observed trend of decreasing birth weight over time. These factors may include changes in maternal health behaviors, such as smoking or substance use during pregnancy, as well as shifts in maternal demographics, such as maternal age or pre-existing health conditions.
+- __Health Implications for Newborns:__ Lower birth weights are associated with an increased risk of various health complications for newborns, including respiratory distress syndrome, low blood sugar, and developmental delays. Monitoring trends in average birth weight can help healthcare providers identify infants at risk for health complications and implement appropriate interventions to support their health and development.
+
+
+
+- <img src="images/Births_Spread_Across_States.jpg" width="550">
+- **Geospatial Map of Births Across States in the US (2016-2021):**
+- __Visual Representation of Birth Distribution:__ A geospatial map provides a visual representation of the distribution of births across different states in the United States. Each state is represented geographically, allowing for easy identification of regions with higher or lower birth rates.
+- __Identification of Regional Disparities:__ The geospatial map enables the identification of regional disparities in birth rates, with some states experiencing higher birth rates than others. Variations in birth rates may be influenced by factors such as population density, socioeconomic status, access to healthcare services, and cultural norms.
+- __Insights into Demographic Trends:__ Analyzing the distribution of births across states can provide insights into demographic trends and patterns. For example, states with higher birth rates may have younger populations or higher fertility rates, while states with lower birth rates may have aging populations or lower fertility rates.
+- __Informing Public Health Interventions:__ The geospatial map can inform public health interventions aimed at improving maternal and child health outcomes. Identifying regions with higher birth rates may prompt targeted efforts to improve access to prenatal care, maternal health services, and infant healthcare resources.
+
+
+
+
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiYzM1NzJjZWEtZTc1Zi00NjNhLTk1NzMtMGEwODQ1ZjRlYzdhIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+
+
+## Recommendations for Improving the Health and Wellbeing of Mother and Child during Child Birth:
+- __Access to Prenatal Care:__ The Health Institutions should ensure universal access to quality prenatal care services, including regular check-ups, screenings, and education on healthy behaviors during pregnancy.
+- __Education and Support:__ THey should provide comprehensive prenatal education to expectant mothers and their families, covering topics such as nutrition, prenatal vitamins, exercise, and childbirth preparation. They could also offer counseling and support services for mental health and emotional well-being during pregnancy and postpartum.
+- __Nutritional Support:__ They can promote access to nutritious foods and prenatal supplements to support maternal and fetal health. They could offer nutritional counseling and support for pregnant women, particularly those at risk of malnutrition or nutrient deficiencies.
+- __Continuity of Care:__ The health institutions can ensure continuity of care throughout pregnancy, childbirth, and the postpartum period by facilitating communication and coordination among healthcare providers.
+- __Access to Skilled Birth Attendants:__ It would be impactful if they could ncrease access to skilled birth attendants, including midwives, obstetricians, and other qualified healthcare professionals, to provide safe and supportive childbirth experiences.
+- __Facility-Based Childbirth Services:__ They can promote facility-based childbirth services with adequate infrastructure, equipment, and staffing to ensure safe and hygienic delivery environments.
+- __Postpartum Support and Follow-up:__ They can implement or improve on postpartum care protocols to monitor maternal and newborn health after childbirth, including assessments for complications, breastfeeding support, and mental health screening. They can also offer lactation counseling, and referrals to community resources to address the physical, emotional, and social needs of new mothers and their families.
+
+
+
+
+## Thank You For Following Through!
