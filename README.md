@@ -44,6 +44,43 @@ This dataset is made up of a single table with 9 columns and 5,496 rows of data,
 - __Average Birth Weight (g):__ This column denotes the average birth weight of newborn babies. Entries in this column represent the mean weight of newborns within each category, typically measured in grams.
 
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
 
 
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform,
+        4. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX
+        2. Quick Measures
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Buttons
 
+
+### Data Cleaning, Transformation and Loading using MS Sql Server:
+- There was just a some cleaning done here by correcting some text, but no serious data cleaning or transformastion was carried out. The dataset came mostly cleaned, i just made sure that the data types of the fields are of the right types and that fields all reported 100% valid for the column quality.
+
+
+**Power Query View**
+
+Power Query Screenshot                                                             |                                
+:---------------------------------------------------------------------------------:|
+![](images/Power_Query_Editor_Screenshot.png)
+
+You can access the complete Power BI project document [here](STUDENTS%20MENTAL%20HEALTH%20ANALYSIS.pbix).
+
+
+## Data Modelling
+No data modelling was required since we needed just a table for the analysis.
