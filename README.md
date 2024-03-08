@@ -88,7 +88,7 @@ This dataset is made up of a single table with 9 columns and 5,496 rows of data,
 
 Power Query Screenshot                                                             |                                
 :---------------------------------------------------------------------------------:|
-![](images/Power_Query_Screenshort.png))
+![](images/Power_Query_Screenshort.png)
 
 You can access the complete Power BI project document [here](US%20BIRTHS%20ANALYSIS%20(2016%20-%202021).pbix).
 
