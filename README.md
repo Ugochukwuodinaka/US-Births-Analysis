@@ -1,5 +1,5 @@
 # US Births (2016-2021) Analysis
-![](Child_Birth_image.jpg)
+![](images/Child_Birth_image.jpg)
 
 
 ## Project Overview
