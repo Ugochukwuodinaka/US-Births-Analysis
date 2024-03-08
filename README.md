@@ -77,10 +77,33 @@ This dataset is made up of a single table with 9 columns and 5,496 rows of data,
 
 Power Query Screenshot                                                             |                                
 :---------------------------------------------------------------------------------:|
-![](images/Power_Query_Editor_Screenshot.png)
+![](images/Power_Query_Screenshort.png))
 
-You can access the complete Power BI project document [here](STUDENTS%20MENTAL%20HEALTH%20ANALYSIS.pbix).
+You can access the complete Power BI project document [here](US%20BIRTHS%20ANALYSIS%20(2016%20-%202021).pbix).
 
 
 ## Data Modelling
 No data modelling was required since we needed just a table for the analysis.
+
+
+
+## Visualization in Power BI:
+#### Report View 1
+![](images/US_Births_(2016-2021)_Analysis_Dashboard1.jpg)
+
+#### Report View 2
+![](images/US_Births_(2016-2021)_Analysis_Dashboard2.jpg)
+
+### Project Analysis:
+From my analysis, i made the following Key findings below:
+- The Total Number of Nnew Births is __22,618,480.__
+- Total Number of New Births (Male) __11,568,166.__
+- Total Number of New Births (Female) __11,050,314.__
+- Total Number of Birth States In This Analysis __51.__
+- Total Average Age of Mothers __30.__
+- Average Birth Weight __3,251 (g).__
+
+
+
+- <img src="images/Top10_States_By_No_of_Births.jpg" width="300">
+- **The Top 10 States By Number of Births:**
