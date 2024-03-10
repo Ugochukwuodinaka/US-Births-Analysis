@@ -107,7 +107,7 @@ No data modelling was required since we needed just a table for the analysis.
 
 ### Project Analysis:
 From my analysis, i made the following Key findings below:
-- The Total Number of Nnew Births is __22,618,480.__
+- The Total Number of New Births is __22,618,480.__
 - Total Number of New Births (Male) __11,568,166.__
 - Total Number of New Births (Female) __11,050,314.__
 - Total Number of Birth States In This Analysis __51.__
