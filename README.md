@@ -43,7 +43,7 @@ This dataset provides birth rates and related data across the 50 states and DC f
 
 Each row in the dataset is considered a category defined by the state, birth year, baby's gender, and educational level of the mother. Three quantities are given for each category: number of births, mother's average age, and average baby weight. The CDC is sensitive to potentially disclosing personal information, so any category with less than ten births is suppressed. The data in this dataset was orinally obtained using CDC's WONDER retrieval tool on the [CDC Natality](https://wonder.cdc.gov/natality-current.html) page.
 
-This dataset is made up of a single table with 9 columns and 5,496 rows of data, below is the information abount the columns in this dataset:
+This dataset is made up of a single table with 9 columns and 5,496 rows of data, below is the information about the columns in this dataset:
 - __State:__ This column represents the name of the state where the births occurred. Each entry in this column corresponds to a specific state within the United States.
 - __State Abbreviation:__ This column provides the standardized abbreviation for each state. State abbreviations are typically two-letter codes used to uniquely identify each state.
 - __Year:__ This column indicates the year in which the births occurred. Each entry in this column corresponds to a specific calendar year within the specified range.
