@@ -94,6 +94,7 @@ Power Query Screenshot                                                          
 
 You can access the complete Power BI project document [here](US%20BIRTHS%20ANALYSIS%20(2016%20-%202021).pbix).
 <br />
+<br />
 
 ## Data Modelling
 No data modelling was required since we needed just a table for the analysis.
