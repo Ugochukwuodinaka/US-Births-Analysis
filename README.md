@@ -16,8 +16,7 @@
 ## Project Overview
 
 ### Introduction:
-This is an analysis on Births in the US by year, state, and education level of the mother: 2016-2021. This project aims to analyze the trends and patterns of births in the United States from 2016 to 2021, focusing on the demographic variables of the mother's education level, age, geographical location (state), birth rates, and temporal changes over the specified period. By exploring these dimensions, the project seeks to provide insights into potential correlations, disparities, and implications for public health policies and interventions.
-
+Analysis: Births in the US by Year, State and Education Level of the Mother: 2016-2021 The present project aims to conduct a trend analysis of births in the United States from 2016 to 2021 with regard to variability: mother's educational level, age, geographic location at the state level, birth rates, and changes over a specified period of time.It is in these dimensions that this project seeks to make a contribution through its possible correlations, disparities, and implications for public health policies and interventions.
 
 ### Objectives:
 - Examine variations in birth rates across different states over the specified period by looking at the top 10 states by number of births.
@@ -40,20 +39,22 @@ This is an analysis on Births in the US by year, state, and education level of t
 <br />
 
 ### Dataset Overview
-This dataset provides birth rates and related data across the 50 states and DC from 2016 to 2021. The data was sourced from the Centers for Disease Control and Prevention (CDC) and includes detailed information such as number of births, gender, birth weight, state, and year of the delivery. A particular emphasis is given to detailed information on the mother's educational level. With this dataset, one can, for example, examine trends and patterns in birth rates across different academic groups and geographic locations.
+This is the dataset for birth rates and other associated data for the 50 states and DC during the period of 2016-2021. The Centers for Disease Control and Prevention (CDC) provided the dataset. It contains the number of births, gender, birth weight, state, and the year the birth took place. This dataset places special emphasis on detailed information regarding mothers' educational levels. This dataset will allow one to do such things as analyze birth rates as a function of academic groups and geographic location.
 
-Each row in the dataset is considered a category defined by the state, birth year, baby's gender, and educational level of the mother. Three quantities are given for each category: number of births, mother's average age, and average baby weight. The CDC is sensitive to potentially disclosing personal information, so any category with less than ten births is suppressed. The data in this dataset was orinally obtained using CDC's WONDER retrieval tool on the [CDC Natality](https://wonder.cdc.gov/natality-current.html) page.
+The dataset contains rows viewed as categories defined by state, birth year, gender of the baby, and mother's educational level. Three quantities are given for each category: number of births, mother's average age, and average baby weight. The CDC is sensitive to possibly disclosing personal information, so any category with fewer than ten births is suppressed. Data in this set was originally pulled using CDC's WONDER retrieval tool from the webpage [CDC Natality](https://wonder.cdc.gov/natality-current.html).
 
-This dataset is made up of a single table with 9 columns and 5,496 rows of data, below is the information about the columns in this dataset:
-- __State:__ This column represents the name of the state where the births occurred. Each entry in this column corresponds to a specific state within the United States.
-- __State Abbreviation:__ This column provides the standardized abbreviation for each state. State abbreviations are typically two-letter codes used to uniquely identify each state.
-- __Year:__ This column indicates the year in which the births occurred. Each entry in this column corresponds to a specific calendar year within the specified range.
-- __Gender:__ This column specifies the gender of the newborns. Entries in this column typically include categories such as "Male" and "Female," indicating the gender of the newborns.
-- __Education Level of Mother:__ This column denotes the educational attainment of the mothers. Entries in this column may include categories such as "Less than high school", "High school graduate", "Some college or associate's degree", "Bachelor's degree or higher", etc., representing different levels of education achieved by the mothers.
-- __Education Level Code:__ This column provides a numerical code corresponding to the educational level of the mothers. Each educational category mentioned in the "Education Level of Mother" column may have a unique numerical code assigned to it for data processing purposes.
-- __Number of Births:__ This column indicates the total number of births that occurred within the specified category. Each entry in this column represents the count of births corresponding to the particular combination of state, year, gender, and education level of the mother.
-- __Average Age of Mother (years):__ This column provides the average age of the mothers at the time of giving birth. Entries in this column represent the mean age of mothers within each category, calculated in years.
-- __Average Birth Weight (g):__ This column denotes the average birth weight of newborn babies. Entries in this column represent the mean weight of newborns within each category, typically measured in grams.
+This dataset is made up of a single table with 9 columns and 5,496 rows of data, below is the data disctionary as regards the columns in this dataset:
+| Table                              | Field                    | Description                            |            
+|:-----------------------------------|:------------------------ |:-------------------------------------- |
+|FoodAppBussiness.csv                | State                    | This column represents the name of the state where the births occurred. Each entry in this column corresponds to a specific state within the United States    |
+|                                    | State Abbreviation       | This column provides the standardized abbreviation for each state. State abbreviations are typically two-letter codes used to uniquely identify each state     |
+|                                    | Year                     | This column indicates the year in which the births occurred. Each entry in this column corresponds to a specific calendar year within the specified range         |
+|                                    | Gender                   | This column specifies the gender of the newborns. Entries in this column typically include categories such as "Male" and "Female," indicating the gender of the newborns         |
+|                                    | Education Level of Mother| This column denotes the educational attainment of the mothers. Entries in this column may include categories such as "Less than high school", "High school graduate", "Some college or associate's degree", "Bachelor's degree or higher", etc., representing different levels of education achieved by the mothers.        |
+|                                    | Education Level Code     | This column provides a numerical code corresponding to the educational level of the mothers. Each educational category mentioned in the "Education Level of Mother" column may have a unique numerical code assigned to it for data processing purposes.         |
+|                                    | Number of Births         | This column indicates the total number of births that occurred within the specified category. Each entry in this column represents the count of births corresponding to the particular combination of state, year, gender, and education level of the mother.        |
+|                                    | Average Age of Mother (years)| This column provides the average age of the mothers at the time of giving birth. Entries in this column represent the mean age of mothers within each category, calculated in years.        |
+|                                    | Average Birth Weight (g) | This column denotes the average birth weight of newborn babies. Entries in this column represent the mean weight of newborns within each category, typically measured in grams.         |
 <br />
 <br />
 
