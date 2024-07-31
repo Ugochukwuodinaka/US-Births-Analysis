@@ -62,14 +62,14 @@ This dataset is made up of a single table with 9 columns and 5,496 rows of data,
 1. Data Cleaning
 2. Data Visualiziation
 3. Descriptive Analytics
-4. Critical Thinking and Problem Solving
+4. Analytical Thinking and Problem Solving
 5. Communication and Reporting
 <br />
 
 ### Tools Used
 1. Power Query Editor
     - Was used to:
-        1. Extract,
+        1. Clean,
         2. Transform,
         4. Load the dataset for this analysis.
            
@@ -84,7 +84,7 @@ This dataset is made up of a single table with 9 columns and 5,496 rows of data,
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
-- There was just a some cleaning done here by correcting some text, but no serious data cleaning or transformastion was carried out. The dataset came mostly cleaned, i just made sure that the data types of the fields are of the right types and that fields all reported 100% valid for the column quality.
+- There was just a cleaning and transformation done here by correcting some text. The dataset came mostly cleaned, i also made sure that the data types of the fields are of the right types and that fields all reported 100% valid for the column quality.
 
 
 **Power Query View**
@@ -125,32 +125,28 @@ From my analysis, i made the following Key findings below:
 - <img src="images/Top10_States_By_No_of_Births.jpg" width="300">
 
 - **The Top 10 States By Number of Births:**
-- In this analysis, our first insight is on the top 10 states by number of births, below are insights i derived from the data:
-- __California Leads in Total Number of Births:__ California recorded the highest number of births among all states in the dataset, with a total of 2,702,751 births. This indicates a significant proportion of the total births in the United States during the specified period.
-- __Texas and New York Follow Closely:__ Texas and New York rank second and third, respectively, in terms of total number of births, with 2,278,104 and 1,331,877 births, respectively. These states also contribute substantially to the overall birth rate in the country.
-- __Florida and Illinois in the Top Five:__ Florida and Illinois secure the fourth and fifth positions, respectively, with 1,316,127 and 854,265 births. These states demonstrate substantial populations and significant birth rates.
-- __Pennsylvania, Ohio, and Georgia Maintain High Birth Counts:__ Pennsylvania, Ohio, and Georgia occupy the sixth, seventh, and eighth positions, respectively, with 810,372, 803,494, and 758,374 births. These states consistently contribute to the overall birth statistics in the US.
-- __North Carolina and Michigan Complete the Top 10:__ North Carolina and Michigan round out the top 10 states in terms of total number of births, with 715,779 and 651,713 births, respectively. While slightly lower in birth counts compared to the top-ranking states, they still make significant contributions to the national birth rate.
+- In this analysis, our first insight would be the top 10 states by number of births; below are the insights I derived from the data.
+- __California Leads in Total Number of Births:__ California topped the system birth count among the states, with 2,702,751 births. That is a huge share of the total number of births in the United States for this period.                                                                                                                                                   - - - __Texas and New York Almost at Par:__ Texas and New York land at the second and third ranks as far as total number of births are concerned, numbering 2,278,104 and 1,331,877. In general, they are high contributors to the national birth rate.                                                                                                                          - __Florida and Illinois in the Top Five:__ Florida and Illinois take the fourth and fifth positions subsequently, with 1, 316, 127 and 854, 265 births respectively.The population was very big, and birth rates were really high in these two.                                                                                                                                 - __High Birth Figures Maintained:__ Pennsylvania, Ohio, and Georgia were the sixth, seventh, and eighth states on the list with 810,372, 803,494, and 758,374 births, respectively. These are the states that normally significantly contribute to the country's overall birth figures.                                                                                      - __North Carolina and Michigan Round Out the Top 10:__ North Carolina and Michigan come in at the final two spots in the top 10, with 715,779 and 651,713 births, respectively. Though both these states fall short in birth count relative to those at the top of the list, they definitely still make up a lot for the national birth rate.
 <br />
 <br />
 
 - <img src="images/Births_By_Gender_Ratio.jpg" width="250">
 
 - **Births By Gender Ratio:**
-- In analyzing the births by gender ratio, i came up with the below findings: 
-- __Male Births Outnumber Female Births:__ Among the births recorded in the dataset, there were a total of 6,250,629 male births, constituting approximately 51.14% of the total. This indicates a slight predominance of male births over female births during the specified period.
-- __Female Births Account for 48.86%:__ Female births accounted for 5,972,227 births, making up approximately 48.86% of the total. Although slightly lower than male births, female births still represent a substantial proportion of the overall birth count.
-- __Insights into Gender Ratio at Birth:__ The slightly higher proportion of male births aligns with global trends in some parts of the world, where male births typically outnumber female births. Factors such as biological differences, genetic factors, and societal influences may contribute to variations in gender ratios at birth.
+- On the analysis of births based on gender ratio, I found that :
+- __More Male Births Than Females__: The number of males accounted for in births in this dataset is 6 250 629, about 51.14% of the total. This explains that male birth is slightly more than female birth within this period under study.
+- __Female Births Account for 48.86%:__ The number of female births accounted for 5,972,227 births, which shares about 48.86% of the total. Though marginally lower than male births, female births still make up quite a proportion of the overall birth count.
+- __Gender Ratios at Birth__: The fraction of male births is only slightly higher than that of female births; this phenomenon is observed in almost all countries of the world. Either way, biological differences, genetic factors, and social influences could all play their roles in the different birth sex ratios.
 <br />
 <br />
 
 - <img src="images/Births_Trend_By_Year.jpg" width="550">
 
 - **Births Trend By Year (2016-2021):**
-- In this analysis, i evaluated the births trend between 2016 - 2021, below are insights i derived from the data:
-- __Gradual Decline in Total Births Over Time:__ The data reveals a gradual decline in the total number of births in the United States from 2016 to 2021. In 2016, there were 2,142,254 births, which decreased to 1,965,325 births in 2021.
-- __Steady Decline from 2016 to 2020:__ From 2016 to 2020, there is a consistent downward trend in the number of births each year. This steady decline suggests potential demographic or socio-economic factors influencing birth rates during this period. The COVID-19 pandemic likely contributed to the downward trend in childbirth rates observed in 2020. The pandemic may have raised the fears of economic uncertainty, health concerns, disruption of healthcare services, and social distancing measures which impacted on the number of births in 2020.
-- __Slight Increase in Births from 2020 to 2021:__ After reaching a low of 1,943,917 births in 2020, there is a slight increase in the number of births to 1,965,325 in 2021. While this increase may indicate a temporary deviation from the downward trend. Several factors may have contributed to the slight increase in childbirth rates observed in 2021 like the easing of pandemic restrictions, pent-up demand for procreation after the easing of the pandemic restrictions, improved access to healthcare services, social support networks, and other factors may have influenced this slight births increase.
+- In this analysis, I assessed the births trend between the period 2016-2021. Below are some of the insights I got from it.
+- __Gradual Decline of Total Births Over Time:__ According to the data provided, there was a gradual decline in the total births in the United States from 2016 through 2021. In the year 2016, the number of births was 2,142,254, which dropped to 1,965,325 in 2021.
+- __Gradual Fall from 2016 to 2020:__ From 2016-2020, there has been a gradual falling off every year for births. The constant fall may be demographic or socio-economic in nature and hence determine the birth rates during this period. The COVID-19 pandemic likely played a role in reducing the birth rates in 2020. Indeed, one would expect it to raise fears concerning economic uncertainty and health issues, as well as disrupt healthcare services and social distancing measures, thus influencing births in the year 2020.
+- __Slight Increase in Births from 2020 to 2021:__ From a low of approximately 1,943,917 births in 2020, there is again a slight rise in the number of births to 1,965,325 in 2021. This might point to some form of short-term fluctuation against the downward trend. Such a good number of factors could have contributed to this slight increase in childbirth rates that was witnessed in 2021, including easing pandemic restrictions, pent-up demand for procreation after the easing of the pandemic restrictions, better access to healthcare services, social support networks, among other factors which could have influenced this slight births increase.
 <br />
 <br />
 
