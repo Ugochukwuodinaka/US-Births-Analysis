@@ -9,7 +9,7 @@
 - [Visualization in Power BI](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
-- [Recommendations for Improving the Health and Wellbeing of Mother and Child during Child Birth:](#recommendations-for-improving-the-health-and-wellbeing-of-mother-and-child-during-child-birth)
+- [Recommendations on Improving the Health and Wellbeing of Mother and Child during Child Birth:](#recommendations-on-improving-the-health-and-wellbeing-of-mother-and-child-during-child-birth)
 <br />
 
 
@@ -204,7 +204,7 @@ You can view and interact with this dashboard report [here](https://app.powerbi.
 <br />
 <br />
 
-## Recommendations for Improving the Health and Wellbeing of Mother and Child during Child Birth:
+## Recommendations on Improving the Health and Wellbeing of Mother and Child during Child Birth:
 - __Access to Prenatal Care:__ The Health Institutions should ensure universal access to quality prenatal care services, including regular check-ups, screenings, and education on healthy behaviors during pregnancy.
 - __Education and Support:__ THey should provide comprehensive prenatal education to expectant mothers and their families, covering topics such as nutrition, prenatal vitamins, exercise, and childbirth preparation. They could also offer counseling and support services for mental health and emotional well-being during pregnancy and postpartum.
 - __Nutritional Support:__ They can promote access to nutritious foods and prenatal supplements to support maternal and fetal health. They could offer nutritional counseling and support for pregnant women, particularly those at risk of malnutrition or nutrient deficiencies.
