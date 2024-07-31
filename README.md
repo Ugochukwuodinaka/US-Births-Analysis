@@ -203,7 +203,7 @@ You can view and interact with this dashboard report [here](https://app.powerbi.
 
 ## Recommendations on Improving the Health and Wellbeing of Mother and Child during Child Birth:
 - __Access to Antenatal Care:__ Health Institutions should ensure access by all to quality ANC services, including regular checkups and screening, and education on healthy behaviors during pregnancy.
-– __Education and Support/Bibliography:__ Full prenatal education regarding nutrition, prenatal vitamins, exercise, childbirth preparation, and other subjects should be provided. In this way, they can also counsel and support mental health and emotional well-being during pregnancy and postpartum.
+- __Education and Support/Bibliography:__ Full prenatal education regarding nutrition, prenatal vitamins, exercise, childbirth preparation, and other subjects should be provided. In this way, they can also counsel and support mental health and emotional well-being during pregnancy and postpartum.
 - They would encourage access to healthy foodstuffs and folic acid supplements for promoting health among mothers and fetuses. It would entail giving nutrition advice, more so to pregnant women who are most vulnerable to malnutrition or inadequate dietary intake.
 - __Continuity of Care:__ Health institutions will ensure that there is a continuum of care throughout pregnancy, at birth time, and after birth by enabling easy communication and coordination among providers.
 - __Access to Skilled Birth Attendants:__ They can increase access to skilled birth attendants, midwives, obstetricians, or other health professionals for a safe and supportive childbirth experience.
