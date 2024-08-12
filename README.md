@@ -70,8 +70,7 @@ This dataset is made up of a single table with 9 columns and 5,496 rows of data,
 1. Power Query Editor
     - Was used to:
         1. Clean,
-        2. Transform,
-        4. Load the dataset for this analysis.
+        2. Transform the dataset for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
