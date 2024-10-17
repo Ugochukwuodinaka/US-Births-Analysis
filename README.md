@@ -102,10 +102,10 @@ No data modelling was required since we needed just a table for the analysis.
 <br />
 
 ## Visualization in Power BI:
-#### Report View 1
+#### Birth Stats
 ![](images/US_Births_(2016-2021)_Analysis_Dashboard1.jpg)
 
-#### Report View 2
+#### Mother & Baby Trends
 ![](images/US_Births_(2016-2021)_Analysis_Dashboard2.jpg)
 <br />
 <br />
@@ -194,8 +194,8 @@ From my analysis, i made the following Key findings below:
 <br />
 <br />
 
-## Visuals in Power BI Report:
-You can view and interact with this dashboard report [here](https://app.powerbi.com/view?r=eyJrIjoiYzM1NzJjZWEtZTc1Zi00NjNhLTk1NzMtMGEwODQ1ZjRlYzdhIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+## Visuals in Power BI Service:
+You can view and interact with this dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzM1NzJjZWEtZTc1Zi00NjNhLTk1NzMtMGEwODQ1ZjRlYzdhIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
